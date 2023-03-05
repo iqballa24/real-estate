@@ -1,0 +1,548 @@
+{
+  "id": 3996354,
+  "objectID": 3996354,
+  "ownerID": 1897045,
+  "userExternalID": "1897045",
+  "sourceID": 1,
+  "state": "active",
+  "geography": {
+    "lat": 25.181663,
+    "lng": 55.278035
+  },
+  "purpose": "for-sale",
+  "price": 800000.0,
+  "product": "hot",
+  "productLabel": "default",
+  "rentFrequency": null,
+  "referenceNumber": "2985-Ap-S-0279",
+  "permitNumber": "7129176800",
+  "projectNumber": null,
+  "title": "1-Bedroom | Vacant | Canal View",
+  "title_l1": "\u0634\u0642\u0629 \u0641\u064a \u0628\u0631\u062c \u0645\u0627\u064a \u0641\u064a\u0631 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u062a\u062c\u0627\u0631\u064a 1 \u063a\u0631\u0641 800000 \u062f\u0631\u0647\u0645 - 6679108",
+  "title_l2": "1-Bedroom | Vacant | Canal View",
+  "description": "-1 Bedroom\n-1 Bathroom\n-Open Kitchen\n-Built-in Wardrobes\n-Laundry Room\n-Balcony Canal View\n\nluxe homes is please to present you this 1-Bedroom Apartment in Business Bay, Mayfair Tower. A 22-storey residential building developed by Deyaar. \n\nMain Roads nearby: Al Khail Road, Sheikh Zayed Road\nClosest Metro Station: Business Bay\nClosest Bust Stations: Fairview Residency 2\n\nAmenities:\n-High-speed Elevators, CCTV and Fire-alarms\n-Security, and Maintenance Services\n-Gym, Pool and Spa\n-Children's Play Area\n\nFor further details, please drop us a message on WhatsApp - or peruse the extraordinary selection of properties we maintain on the luxe home website. Our area specialist will be happy to answer any of your questions related to the property listed. \n\nGet in touch with us on:\nCall: [redacted phone number]\nEmail: [redacted email address]\nWeb: www. luxehomesdubai. com",
+  "description_l1": "\u0634\u0642\u0629 \u0641\u064a \u0628\u0631\u062c \u0645\u0627\u064a \u0641\u064a\u0631 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u062a\u062c\u0627\u0631\u064a 1 \u063a\u0631\u0641 800000 \u062f\u0631\u0647\u0645 - 6679108",
+  "description_l2": "-1 Bedroom\n-1 Bathroom\n-Open Kitchen\n-Built-in Wardrobes\n-Laundry Room\n-Balcony Canal View\n\nluxe homes is please to present you this 1-Bedroom Apartment in Business Bay, Mayfair Tower. A 22-storey residential building developed by Deyaar. \n\nMain Roads nearby: Al Khail Road, Sheikh Zayed Road\nClosest Metro Station: Business Bay\nClosest Bust Stations: Fairview Residency 2\n\nAmenities:\n-High-speed Elevators, CCTV and Fire-alarms\n-Security, and Maintenance Services\n-Gym, Pool and Spa\n-Children's Play Area\n\nFor further details, please drop us a message on WhatsApp - or peruse the extraordinary selection of properties we maintain on the luxe home website. Our area specialist will be happy to answer any of your questions related to the property listed. \n\nGet in touch with us on:\nCall: [redacted phone number]\nEmail: [redacted email address]\nWeb: www. luxehomesdubai. com",
+  "externalID": "6679108",
+  "slug": "1-bedroom-vacant-canal-view-6679108",
+  "slug_l1": "1-bedroom-vacant-canal-view-6679108",
+  "slug_l2": "1-bedroom-vacant-canal-view-6679108",
+  "location": [
+    {
+      "id": 1,
+      "level": 0,
+      "externalID": "5001",
+      "name": "UAE",
+      "name_l1": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+      "name_l2": "UAE",
+      "slug": "/uae",
+      "slug_l1": "/uae",
+      "slug_l2": "/uae"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "externalID": "5002",
+      "name": "Dubai",
+      "name_l1": "\u062f\u0628\u064a",
+      "name_l2": "Dubai",
+      "slug": "/dubai",
+      "slug_l1": "/dubai",
+      "slug_l2": "/dubai"
+    },
+    {
+      "id": 54,
+      "level": 2,
+      "externalID": "5093",
+      "name": "Business Bay",
+      "name_l1": "\u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u062a\u062c\u0627\u0631\u064a",
+      "name_l2": "Business Bay",
+      "slug": "/dubai/business-bay",
+      "slug_l1": "/dubai/business-bay",
+      "slug_l2": "/dubai/business-bay",
+      "type": "neighbourhood"
+    },
+    {
+      "id": 763,
+      "level": 3,
+      "externalID": "5120",
+      "name": "Mayfair Tower",
+      "name_l1": "\u0628\u0631\u062c \u0645\u0627\u064a \u0641\u064a\u0631",
+      "name_l2": "Mayfair Tower",
+      "slug": "/dubai/business-bay/mayfair-tower",
+      "slug_l1": "/dubai/business-bay/mayfair-tower",
+      "slug_l2": "/dubai/business-bay/mayfair-tower",
+      "type": "condo-building"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "level": 0,
+      "externalID": "1",
+      "name": "Residential",
+      "name_l1": "\u0633\u0643\u0646\u064a",
+      "name_l2": "Residential",
+      "slug": "residential",
+      "slug_l1": "residential",
+      "slug_l2": "residential",
+      "nameSingular": "Residential",
+      "nameSingular_l1": "\u0633\u0643\u0646\u064a",
+      "nameSingular_l2": "Residential"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "externalID": "4",
+      "name": "Apartments",
+      "name_l1": "\u0634\u0642\u0642",
+      "name_l2": "Apartments",
+      "slug": "apartments",
+      "slug_l1": "apartments",
+      "slug_l2": "apartments",
+      "nameSingular": "Apartment",
+      "nameSingular_l1": "\u0634\u0642\u0629",
+      "nameSingular_l2": "Apartment"
+    }
+  ],
+  "createdAt": 1671710699.0,
+  "approvedAt": 1671710699.0,
+  "updatedAt": 1673581818.0,
+  "touchedAt": 1673582325.354743,
+  "reactivatedAt": 1671710699.0,
+  "rooms": 1,
+  "baths": 1,
+  "area": 58.15730304,
+  "score": 75,
+  "score_l1": 75,
+  "score_l2": 75,
+  "coverPhoto": {
+    "id": 319179042,
+    "externalID": "136029955",
+    "title": null,
+    "orderIndex": 0,
+    "nimaScore": 6.00798409433134,
+    "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179042/3e120c40662d4f02b49c220db8d60f6d",
+    "main": true
+  },
+  "coverVideo": {
+    "externalID": 423182,
+    "title": null,
+    "host": "youtube",
+    "url": "https://youtu.be/jFwDfJ6eze0",
+    "orderIndex": 0
+  },
+  "photoCount": 15,
+  "videoCount": 1,
+  "panoramaCount": 1,
+  "photos": [
+    {
+      "id": 319179042,
+      "externalID": "136029955",
+      "title": null,
+      "orderIndex": 0,
+      "nimaScore": 6.00798409433134,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179042/3e120c40662d4f02b49c220db8d60f6d"
+    },
+    {
+      "id": 319179043,
+      "externalID": "136029956",
+      "title": null,
+      "orderIndex": 1,
+      "nimaScore": 9.014940947052182,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179043/2119ad4d7cdc48b8a424107db96a5ebe"
+    },
+    {
+      "id": 319179044,
+      "externalID": "136029958",
+      "title": null,
+      "orderIndex": 2,
+      "nimaScore": 9.169081590371082,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179044/35a73c818ffe424b9a80aaedbbacf8f1"
+    },
+    {
+      "id": 319179045,
+      "externalID": "136029960",
+      "title": null,
+      "orderIndex": 3,
+      "nimaScore": 8.967611988721131,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179045/9badeb4d32ac4f63966d62e72579d351"
+    },
+    {
+      "id": 319179046,
+      "externalID": "136029961",
+      "title": null,
+      "orderIndex": 4,
+      "nimaScore": 9.17049851259776,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179046/6a86347dc89245a6ae2bc925227f75fb"
+    },
+    {
+      "id": 319179047,
+      "externalID": "136029963",
+      "title": null,
+      "orderIndex": 5,
+      "nimaScore": 8.449460716587055,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179047/f5217cd2d87d4633ae971b981c517999"
+    },
+    {
+      "id": 319179048,
+      "externalID": "136029964",
+      "title": null,
+      "orderIndex": 6,
+      "nimaScore": 9.123388710926974,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179048/1cec8270337544d89a00c7044f917292"
+    },
+    {
+      "id": 319179049,
+      "externalID": "136029966",
+      "title": null,
+      "orderIndex": 7,
+      "nimaScore": 9.23117666060989,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179049/12c0399ec2864cd2b9c9a4fca8794ba0"
+    },
+    {
+      "id": 327377461,
+      "externalID": "136029967",
+      "title": null,
+      "orderIndex": 8,
+      "nimaScore": 8.540574160498238,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/327377461/d41ff994bd1a4ed0b21b25ad74d4a93f"
+    },
+    {
+      "id": 319179051,
+      "externalID": "136029972",
+      "title": null,
+      "orderIndex": 9,
+      "nimaScore": 9.218975599841997,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179051/ede309abbb23407ea91a3d5e60587ae6"
+    },
+    {
+      "id": 327377463,
+      "externalID": "136029974",
+      "title": null,
+      "orderIndex": 10,
+      "nimaScore": 9.03914741008148,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/327377463/0e772a82d38947bcb11fd6c7b597cb4c"
+    },
+    {
+      "id": 319179053,
+      "externalID": "136029976",
+      "title": null,
+      "orderIndex": 11,
+      "nimaScore": 8.836267061157201,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179053/275a870e69e24c04a73f05f03ecb14be"
+    },
+    {
+      "id": 319179054,
+      "externalID": "136029980",
+      "title": null,
+      "orderIndex": 12,
+      "nimaScore": 8.30536788513291,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179054/9925c54b3a2e460aa9289a00cd8f93b9"
+    },
+    {
+      "id": 319179055,
+      "externalID": "136029983",
+      "title": null,
+      "orderIndex": 13,
+      "nimaScore": 6.000021585642517,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179055/d2f5de27a8ac4774bcd5a999a354c112"
+    },
+    {
+      "id": 319179056,
+      "externalID": "136029986",
+      "title": null,
+      "orderIndex": 14,
+      "nimaScore": 6.000021240713365,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/319179056/f9313eac991d4c09b7d72c10f2922966"
+    }
+  ],
+  "floorPlans": [],
+  "floorPlan": {
+    "id": 263,
+    "typeIdentifier": "type",
+    "typeIdentifierValue": "N",
+    "images": [
+      {
+        "id": 14438,
+        "externalID": "b3dcd8fc",
+        "orderIndex": 11,
+        "image2D": {
+          "id": 73175246
+        },
+        "image3D": {
+          "id": 73175247
+        },
+        "label": "Floor 2-16"
+      }
+    ],
+    "models": [
+      {
+        "id": 6941,
+        "externalID": "bd3d233f33a345e389795bc885f569ec",
+        "orderIndex": null,
+        "placeholderImage": {
+          "id": 98909190
+        },
+        "label": null,
+        "modelURL": null
+      }
+    ]
+  },
+  "videos": [
+    {
+      "externalID": 423182,
+      "title": null,
+      "host": "youtube",
+      "url": "https://youtu.be/jFwDfJ6eze0",
+      "orderIndex": 0
+    }
+  ],
+  "panoramas": [
+    {
+      "externalID": 422198,
+      "title": null,
+      "host": "3d_view",
+      "url": "https://my.matterport.com/show/?m=sdqfDBLwd8B",
+      "orderIndex": 0
+    }
+  ],
+  "amenities": [
+    {
+      "externalGroupID": 9,
+      "groupRank": 1,
+      "text": "Features",
+      "text_l1": "\u0645\u0632\u0627\u064a\u0627",
+      "text_l2": "Features",
+      "amenities": [
+        {
+          "text": "Furnished",
+          "text_l1": "\u0645\u0641\u0631\u0648\u0634\u0629",
+          "text_l2": "Furnished",
+          "value": "True",
+          "rank": 1,
+          "slug": "furnished",
+          "format": "checkbox",
+          "externalID": 20
+        },
+        {
+          "text": "Centrally Air-Conditioned",
+          "text_l1": "\u0646\u0638\u0627\u0645 \u062a\u0628\u0631\u064a\u062f \u0645\u0631\u0643\u0632\u064a",
+          "text_l2": "Centrally Air-Conditioned",
+          "value": "True",
+          "rank": 4,
+          "slug": "centrally-air-conditioned",
+          "format": "checkbox",
+          "externalID": 7
+        }
+      ]
+    },
+    {
+      "externalGroupID": 5,
+      "groupRank": 2,
+      "text": "Building",
+      "text_l1": "\u0627\u0644\u0628\u0646\u0627\u0621",
+      "text_l2": "Building",
+      "amenities": [
+        {
+          "text": "Balcony or Terrace",
+          "text_l1": "\u0634\u0631\u0641\u0629 \u0623\u0648 \u062a\u0631\u0627\u0633",
+          "text_l2": "Balcony or Terrace",
+          "value": "True",
+          "rank": 1,
+          "slug": "balcony-or-terrace",
+          "format": "checkbox",
+          "externalID": 3
+        }
+      ]
+    },
+    {
+      "externalGroupID": 3,
+      "groupRank": 3,
+      "text": "Health and Fitness",
+      "text_l1": "\u0627\u0644\u0635\u062d\u0629 \u0648 \u0627\u0644\u0644\u064a\u0627\u0642\u0629",
+      "text_l2": "Health and Fitness",
+      "amenities": [
+        {
+          "text": "Gym or Health Club",
+          "text_l1": "\u0635\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0648 \u0646\u0627\u062f\u064a \u0635\u062d\u064a",
+          "text_l2": "Gym or Health Club",
+          "value": "True",
+          "rank": 3,
+          "slug": "gym-or-health-club",
+          "format": "checkbox",
+          "externalID": 22
+        },
+        {
+          "text": "Swimming Pool",
+          "text_l1": "\u0645\u0633\u0628\u062d",
+          "text_l2": "Swimming Pool",
+          "value": "True",
+          "rank": 6,
+          "slug": "swimming-pool",
+          "format": "checkbox",
+          "externalID": 45
+        },
+        {
+          "text": "Jacuzzi",
+          "text_l1": "\u062c\u0627\u0643\u0648\u0632\u064a",
+          "text_l2": "Jacuzzi",
+          "value": "True",
+          "rank": 9,
+          "slug": "jacuzzi",
+          "format": "checkbox",
+          "externalID": 33
+        },
+        {
+          "text": "Sauna",
+          "text_l1": "\u0633\u0627\u0648\u0646\u0627",
+          "text_l2": "Sauna",
+          "value": "True",
+          "rank": 10,
+          "slug": "sauna",
+          "format": "checkbox",
+          "externalID": 42
+        },
+        {
+          "text": "Steam Room",
+          "text_l1": "\u063a\u0631\u0641\u0629 \u0628\u062e\u0627\u0631",
+          "text_l2": "Steam Room",
+          "value": "True",
+          "rank": 12,
+          "slug": "steam-room",
+          "format": "checkbox",
+          "externalID": 43
+        }
+      ]
+    },
+    {
+      "externalGroupID": 10,
+      "groupRank": 5,
+      "text": "Cleaning and Maintenance",
+      "text_l1": "\u0627\u0644\u062a\u0646\u0638\u064a\u0641 \u0648\u0627\u0644\u0635\u064a\u0627\u0646\u0629",
+      "text_l2": "Cleaning and Maintenance",
+      "amenities": [
+        {
+          "text": "Maintenance Staff",
+          "text_l1": "\u062e\u062f\u0645\u0627\u062a \u0635\u064a\u0627\u0646\u0629",
+          "text_l2": "Maintenance Staff",
+          "value": "True",
+          "rank": 2,
+          "slug": "maintenance-staff",
+          "format": "checkbox",
+          "externalID": 61
+        }
+      ]
+    },
+    {
+      "externalGroupID": 6,
+      "groupRank": 6,
+      "text": "Business and Security",
+      "text_l1": "\u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0648\u0627\u0644\u0623\u0645\u0646 \u0648\u0627\u0644\u062d\u0645\u0627\u064a\u0629",
+      "text_l2": "Business and Security",
+      "amenities": [
+        {
+          "text": "Security Staff",
+          "text_l1": "\u0623\u0645\u0646 \u0648 \u062d\u0645\u0627\u064a\u0629",
+          "text_l2": "Security Staff",
+          "value": "True",
+          "rank": 3,
+          "slug": "security-staff",
+          "format": "checkbox",
+          "externalID": 62
+        }
+      ]
+    },
+    {
+      "externalGroupID": 7,
+      "groupRank": 9,
+      "text": "Miscellaneous",
+      "text_l1": "\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0639\u0627\u0645\u0629",
+      "text_l2": "Miscellaneous",
+      "amenities": [
+        {
+          "text": "24 Hours Concierge",
+          "text_l1": "\u062d\u0631\u0627\u0633\u0629 24 \u0633\u0627\u0639\u0629",
+          "text_l2": "24 Hours Concierge",
+          "value": "True",
+          "rank": 2,
+          "slug": "24-hours-concierge",
+          "format": "checkbox",
+          "externalID": 72
+        }
+      ]
+    }
+  ],
+  "phoneNumber": {
+    "mobile": "+971585099030",
+    "phone": "+97145778078",
+    "whatsapp": "971545695868",
+    "proxyMobile": "+971526769790",
+    "phoneNumbers": ["+97145778078"],
+    "mobileNumbers": ["+971585099030"]
+  },
+  "contactName": "Mohammad Al Hareef",
+  "agency": {
+    "id": 29621364,
+    "objectID": 29621364,
+    "name": "Luxehomes Real Estate Buying & Selling Brokerage",
+    "name_l1": "\u0627\u0644\u0648\u0633\u0627\u0637\u0629 \u0641\u064a \u0628\u064a\u0639 \u0648\u0634\u0631\u0627\u0621 \u0627\u0644\u0639\u0642\u0627\u0631\u0627\u062a \u0627\u0644\u0641\u0627\u062e\u0631\u0629",
+    "name_l2": "Luxehomes Real Estate Buying & Selling Brokerage",
+    "externalID": "11042",
+    "product": "premium",
+    "productScore": 2,
+    "licenses": [
+      {
+        "number": "996016",
+        "authority": "DED"
+      },
+      {
+        "number": "28403",
+        "authority": "RERA"
+      }
+    ],
+    "logo": {
+      "id": 168330538,
+      "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/168330538/79f945f5f88f4628baa1d939c8bcca77"
+    },
+    "slug": "luxehomes-real-estate-buying-selling-brokerage-11042",
+    "slug_l1": "luxehomes-real-estate-buying-selling-brokerage-11042",
+    "slug_l2": "luxehomes-real-estate-buying-selling-brokerage-11042",
+    "tr": 3,
+    "tier": 3,
+    "roles": [],
+    "active": true,
+    "createdAt": "2021-11-22T11:51:54.648754+00:00",
+    "commercialNumber": null,
+    "shortNumber": null
+  },
+  "active": true,
+  "hasExactGeography": true,
+  "verification": {
+    "status": "verified",
+    "type": "manual",
+    "eligible": true,
+    "comment": null,
+    "updatedAt": 1671790117.824156,
+    "verifiedAt": 1672898147.238998,
+    "visitedAt": null
+  },
+  "isVerified": true,
+  "completionStatus": "completed",
+  "randBoostScore": 414,
+  "randBoostScore_l1": 254,
+  "randBoostScore_l2": 254,
+  "furnishingStatus": "furnished",
+  "extraFields": {
+    "dldBuildingNK": "tabu+ejari-291678",
+    "dldPropertySK": "dld|mea|ae|tabu+ejari-291768"
+  },
+  "type": "property",
+  "cityLevelScore": 1,
+  "indyScore": 414,
+  "indyScore_l1": 254,
+  "indyScore_l2": 254,
+  "hasMatchingFloorPlans": true,
+  "hidePrice": false,
+  "locationPurposeTier": 1
+}
