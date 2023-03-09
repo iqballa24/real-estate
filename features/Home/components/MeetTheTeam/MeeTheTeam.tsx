@@ -30,7 +30,7 @@ const MeeTheTeam = () => {
         The best in the industry, at your service 24/7
       </Text>
       <Flex
-        direction={{ base: 'column', sm: 'row' }}
+        direction={{ base: 'column', md: 'row' }}
         justifyContent="space-between"
         gap="1.5rem"
       >

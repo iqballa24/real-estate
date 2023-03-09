@@ -11,9 +11,14 @@ type Props = {
 
 const PropertyStats: React.FC<Props> = ({ rooms, baths, price, sqSize }) => {
   return (
-    <Box backgroundColor="white" padding="1.5rem" marginBottom="1rem">
+    <Box
+      backgroundColor="white"
+      padding="1.5rem"
+      marginBottom="1rem"
+      overflowX="hidden"
+    >
       <Flex
-        flexDirection={{ base: 'column', sm: 'row' }}
+        flexDirection={{ base: 'column', md: 'row' }}
         fontSize="xl"
         color="gray.500"
         fontWeight="light"

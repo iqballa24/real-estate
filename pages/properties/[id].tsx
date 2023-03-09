@@ -23,7 +23,6 @@ const PropertyDetail = ({
 }: InferGetServerSidePropsType<typeof getServerSideProps>) => {
   const {
     address,
-    coverPhoto,
     propertyType,
     price,
     title,
@@ -37,14 +36,17 @@ const PropertyDetail = ({
     coverVideo,
     panorama,
     amenities,
-    furshied,
   } = usePropertyFormat(property);
 
   const images = photos as string[];
 
   return (
     <DefaultLayout>
-      <Box backgroundColor="#f7f8f9" paddingY="3rem">
+      <Box
+        backgroundColor="#f7f8f9"
+        paddingY="3rem"
+        paddingX={{ base: '1rem', md: '3rem' }}
+      >
         <Grid
           templateColumns="repeat(6, 1fr)"
           gap="5"
@@ -76,6 +78,7 @@ const PropertyDetail = ({
                 colorScheme="green"
                 padding="0.4rem"
                 width="fit-content"
+                height="fit-content"
                 marginX={{ base: 'auto', lg: '0' }}
               >
                 {purpose}
