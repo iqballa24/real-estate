@@ -3,6 +3,7 @@ import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import DefaultLayout from '@/features/Layout/DefaultLayout';
 import { Box, SimpleGrid } from '@chakra-ui/react';
 import PropertyCard from '@/features/common/modules/PropertyCard';
+import { getProperties } from '@/features/common/API/getProperties';
 
 const Properties = ({
   properties,
@@ -28,11 +29,11 @@ const Properties = ({
 export default Properties;
 
 export const getStaticProps: GetStaticProps = async () => {
-  const { hits } = require('@/features/data/properties');
+  const properties = await getProperties(20);
 
   return {
     props: {
-      properties: hits,
+      properties: properties,
     },
   };
 };

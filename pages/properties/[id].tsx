@@ -17,6 +17,7 @@ import PropertyStats from '@/features/Property/components/PropertyStats';
 import TextContentBox from '@/features/common/modules/TextContentBox';
 import PropertyYoutubeEmbeded from '@/features/Property/components/PropertyYoutubeEmbeded';
 import PropertyMatterPortEmbed from '@/features/Property/components/PropertyMatterPortEmbed';
+import { getProperty } from '@/features/Property/API/getProperty';
 
 const PropertyDetail = ({
   property,
@@ -139,7 +140,9 @@ const PropertyDetail = ({
 export default PropertyDetail;
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
-  const property = require('@/features/data/property');
+  const { id } = context.query;
+  const property = await getProperty(id!);
+
   return {
     props: { property },
   };
