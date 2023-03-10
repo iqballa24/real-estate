@@ -42,7 +42,7 @@ const PropertyDetail = ({
   const images = photos as string[];
 
   return (
-    <DefaultLayout>
+    <DefaultLayout title={title} description={description}>
       <Box
         backgroundColor="#f7f8f9"
         paddingY="3rem"

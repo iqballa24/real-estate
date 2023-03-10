@@ -9,7 +9,10 @@ const Properties = ({
   properties,
 }: InferGetStaticPropsType<typeof getStaticProps>) => {
   return (
-    <DefaultLayout>
+    <DefaultLayout
+      title="Properties"
+      description='"Find your dream home with our real estate website. Browse through thousands of listings, connect with expert agents, and discover the perfect property for your lifestyle. Start your search today and make your homeownership dreams a reality.'
+    >
       <Box backgroundColor="#f7f8f9" padding="3rem">
         <Box maxWidth="1280px" margin="0 auto">
           <SimpleGrid

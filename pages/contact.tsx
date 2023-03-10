@@ -6,7 +6,10 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <DefaultLayout>
+    <DefaultLayout
+      title="Contact"
+      description='"Find your dream home with our real estate website. Browse through thousands of listings, connect with expert agents, and discover the perfect property for your lifestyle. Start your search today and make your homeownership dreams a reality.'
+    >
       <Box
         backgroundColor="#f7f8f9"
         paddingY="3rem"
