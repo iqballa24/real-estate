@@ -21,7 +21,7 @@ export const usePropertyFormat = (property) => {
   const panorama = property.panoramas?.length ? property.panoramas[0].url : [];
 
   const amenities = property.amenities?.flatMap(({ amenities }) =>
-    amenities.map((item) => item.text)
+    amenities?.map((item) => item.text)
   );
 
   const furshied = property.furnishingStatus;

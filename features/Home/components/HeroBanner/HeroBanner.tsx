@@ -12,6 +12,7 @@ const HeroBanner = () => {
         backgroundPosition="center"
         backgroundSize="cover"
         backgroundAttachment="fixed"
+        overflow="hidden"
       >
         <Box
           position="absolute"

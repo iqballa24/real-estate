@@ -21,7 +21,6 @@ const PropertySlider: React.FC<{ featuredProperties: Array<any> }> = ({
       centeredSlides={true}
       autoplay={{ delay: 2000, disableOnInteraction: true }}
       pagination={{ dynamicBullets: true }}
-      modules={[Autoplay, Pagination]}
       className="mySwiper"
     >
       {featuredProperties.map((property) => (
